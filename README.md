@@ -33,5 +33,10 @@ To work effectively with SQL, it's essential to understand the various data type
 - *Text*: CHAR, VARCHAR, NVARCHAR
 - *Date/Time*: DATE, TIME, DATETIME
 
+*Tools Used*
+
+- *SQL Server* as Database [ Download Here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+- *SSMS (SQL Server Management Studio)* for Query Execution [ Download Here](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms)
+
 ### Conclusion
 *SQL isn't just a tool – it's a key to unlocking business potential.* By leveraging its power, I'm able to transform data into knowledge, drive business outcomes, and stay ahead of the curve.
